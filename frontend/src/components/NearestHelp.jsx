@@ -17,7 +17,7 @@ const NearestHelp = ({ userLocation }) => {
         setLoading(true);
         setError('');
         try {
-            const response = await axios.get('http://localhost:5000/api/responders', {
+            const response = await axios.get(`${process.env.REACT_APP_API_URL || 'http://localhost:5000'}/api/responders`, {
                 params: {
                     lat: userLocation.lat,
                     lng: userLocation.lng
