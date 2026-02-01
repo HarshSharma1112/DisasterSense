@@ -8,7 +8,6 @@
 
 [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Visit_Now-success?style=for-the-badge)](https://disaster-sense-six.vercel.app/)
 [![Backend API](https://img.shields.io/badge/⚙️_API-Live-blue?style=for-the-badge)](https://disastersense-5qjt.onrender.com)
-[![Youtube Link](https://youtu.be/mBl87tTG-iw?si=BzDiSa0Ua9XqMTUh)]
 
 [![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
 
@@ -269,28 +268,31 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 ## 📸 Screenshots & Demo
 
 ### Dashboard - Real-Time Intelligence
-![Dashboard]()
+<img width="1899" height="911" alt="Screenshot 2026-02-01 144930" src="https://github.com/user-attachments/assets/ec63e5d9-08e3-4da1-86c9-0cf513fa9ad9" />
+
 
 *Multi-source risk assessment with weather, AQI, earthquakes, and AI news analysis*
 
 ---
 
 ### AI News Intelligence
-![News Intelligence]()
+<img width="1535" height="533" alt="Screenshot 2026-02-01 145018" src="https://github.com/user-attachments/assets/e8175218-d5cf-4822-bea4-5261fd488dbd" />
 
 *Groq AI analyzes global news to detect disasters with severity scores*
 
 ---
 
 ### SOS Emergency System
-![SOS System]()
+<img width="1903" height="917" alt="Screenshot 2026-02-01 144131" src="https://github.com/user-attachments/assets/aed11936-959a-4992-b697-79df550452b9" />
+
 
 *One-click emergency reporting with geolocation and disaster classification*
 
 ---
 
 ### AI Disaster Assistant
-![AI Assistant]()
+<img width="1906" height="910" alt="Screenshot 2026-02-01 144233" src="https://github.com/user-attachments/assets/d1fd1501-a78a-44be-8885-a4bb9bcc8e37" />
+
 
 *Context-aware AI assistant powered by Groq for emergency guidance*
 
