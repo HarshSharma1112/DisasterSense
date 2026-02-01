@@ -68,7 +68,7 @@ const SOSModal = ({ isOpen, onClose, userLocation }) => {
             }
 
             // Send SOS report to backend
-            await axios.post('http://localhost:5000/api/emergency/report', {
+            await axios.post(`${process.env.REACT_APP_API_URL || 'http://localhost:5000'}/api/emergency/report`, {
                 disasterType: formData.disasterType,
                 lat: formData.lat,
                 lng: formData.lng,
