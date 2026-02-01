@@ -410,7 +410,7 @@ GitHub: [@HarshSharma1112](https://github.com/HarshSharma1112)
 ## 📞 Contact
 
 **Project Link:** [https://github.com/HarshSharma1112/DisasterSense](https://github.com/HarshSharma1112/DisasterSense)  
-**Live Demo:** [https://disaster-sense.vercel.app](https://disaster-sense.vercel.app)  
+**Live Demo:** [https://disaster-sense.vercel.app](https://disaster-sense-six.vercel.app)  
 **Email:** harsh_s1@me.iitr.ac.in
 
 ---
