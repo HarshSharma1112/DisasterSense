@@ -300,7 +300,7 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ## 🎥 Video Demo
 
-[![Watch Demo](https://youtu.be/mBl87tTG-iw?si=BzDiSa0Ua9XqMTUh)
+[![Watch Demo] https://youtu.be/mBl87tTG-iw?si=BzDiSa0Ua9XqMTUh
 
 ---
 
